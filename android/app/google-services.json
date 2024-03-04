@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789053661766",
+    "project_id": "weather-flashcards-for-kids",
+    "storage_bucket": "weather-flashcards-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789053661766:android:ca755035b1397f4e026047",
+        "android_client_info": {
+          "package_name": "com.darshankomu.weather_flashcards_for_kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC1bIHc1fmohGPNisoYYVOEVIVrQsNWmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
